@@ -15,7 +15,7 @@ function functionName() {
 }
 
 function functionName() {
-  const name = 0
+  const name = 200
 }
 
 function functionName() {
