@@ -55,3 +55,5 @@ function functionName() {
 function functionName() {
   const name = 0
 }
+
+as
