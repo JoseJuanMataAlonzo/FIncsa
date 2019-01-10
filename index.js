@@ -1,5 +1,5 @@
 function functionName() {
-  const name = 100
+  const name = 900
 }
 
 function functionName() {
