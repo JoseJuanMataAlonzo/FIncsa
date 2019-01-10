@@ -41,7 +41,7 @@ function functionName() {
 }
 
 function functionName() {
-  const name = 0
+  const name = 900
 }
 
 function functionName() {
