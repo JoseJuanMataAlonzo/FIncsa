@@ -29,3 +29,11 @@ function functionName() {
 function functionName() {
   const name = 90
 }
+
+function functionName() {
+  const name = 90
+}
+
+function functionName() {
+  const name = 90
+}
