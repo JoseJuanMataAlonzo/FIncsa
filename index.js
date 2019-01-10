@@ -34,6 +34,8 @@ function functionName() {
   const name = 0
 }
 
+as
+
 function functionName() {
   const name = 0
 }
