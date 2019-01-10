@@ -15,7 +15,7 @@ function functionName() {
 }
 
 function functionName() {
-  const name = 700
+  const name = 800
 }
 
 function functionName() {
